@@ -1,6 +1,6 @@
 ![Gin Logo](https://st.timeweb.com/cloud-static/apps-logo/gin.svg)
 
-# Express
+# Gin
 
 Пример приложения [Gin](https://gin-gonic.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
